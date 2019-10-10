@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hangman!</string>
+    <string name="textview_h">Urvi\'s HANGMAN !</string>
+    <string name="textview_w">Player 1</string>
+    <string name="hints">Enter a movie name</string>
+    <string name="button">Enter</string>
+    <string name="textview">Enter an alphabet</string>
+    <string name="kk">Player 2</string>
+</resources>
